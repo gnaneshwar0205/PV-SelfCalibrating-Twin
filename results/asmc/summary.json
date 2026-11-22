@@ -1,0 +1,11 @@
+ {
+  "controller": "ASMC",
+  "samples": 791,
+  "PV_tracking_RMSE_V": 0.21270366433177357,
+  "twin_PV_RMSE_V": 0.6670292477248368,
+  "twin_IL_RMSE_A": 0.20546432595745417,
+  "twin_bus_RMSE_V": 0.7369635448735318,
+  "final_L_est_mH": 4.039550882889537,
+  "final_Cin_est_uF": 297.9512708827505,
+  "final_Cout_est_uF": 197.88107683893932
+}
