@@ -1,0 +1,11 @@
+{
+  "controller": "NNMPC",
+  "samples": 791,
+  "PV_tracking_RMSE_V": 0.4303934452514605,
+  "twin_PV_RMSE_V": 0.7606844525055224,
+  "twin_IL_RMSE_A": 0.22812198797643568,
+  "twin_bus_RMSE_V": 0.7959837846911308,
+  "final_L_est_mH": 4.086579140837188,
+  "final_Cin_est_uF": 282.95662142968587,
+  "final_Cout_est_uF": 195.91518264167152
+}
