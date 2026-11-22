@@ -1,0 +1,13 @@
+{
+  "plant_dt_s": 0.00002,
+  "controller_period_s": 0.0001,
+  "simulation_end_s": 0.079,
+  "pv_voc_v": 57.6,
+  "pv_isc_a": 2.9,
+  "pv_shape": 8.0,
+  "L0_H": 0.005,
+  "Cin0_F": 0.00047,
+  "Cout0_F": 0.00022,
+  "Vbus_ref_V": 65.0,
+  "load_A": 1.73
+}
